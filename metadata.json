@@ -1,0 +1,8 @@
+{
+  "name": "Grade Line Construction",
+  "description": "Premium construction, excavation, and grading website for Grade Line Construction in Grantsville, Utah, featuring beautiful 3D animations and an interactive AI chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
